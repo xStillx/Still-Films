@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Still Films</string>
+    <string name="home">Главная</string>
+    <string name="favorites">Избранное</string>
+    <string name="search_text">Фильмы, сериалы, персоны</string>
+    <string name="splash">Splash Screen</string>
+    <string name="Description">Описание</string>
+    <string name="actors">Актеры</string>
+    <string name="trailer_on_youtube">Трейлер на YouTube</string>
+</resources>
